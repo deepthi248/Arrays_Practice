@@ -2,7 +2,7 @@ package Others;
 
 public class EvenOdd {
     public static void main(String[] args) {
-        int arr[] ={90,87,45,64};
+        int arr[] ={12, 34, 45, 9, 8, 90, 3};
         evenOddArrangement(arr);
         for (int value:arr)
             System.out.print(value+" ");

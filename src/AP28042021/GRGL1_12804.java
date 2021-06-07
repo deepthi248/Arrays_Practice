@@ -1,4 +1,4 @@
-/*
+package AP28042021;/*
 Input :
 arr[] = { 3, 5, 2, 4, 9, 3, 1, 7, 3, 11, 12, 3}
 x = 3
@@ -23,7 +23,8 @@ Output : No
 
 import javax.swing.*;
 
-public class AP28042021 {
+public class GRGL1_12804 {
+
     public static void main(String[] args){
         int arr[] = { 3, 5, 2, 4, 9, 3, 1, 7, 3, 11, 12, 3};
         int element = 3;
@@ -58,4 +59,8 @@ public class AP28042021 {
 
         return bool;
     }
+
+
+
+
 }
